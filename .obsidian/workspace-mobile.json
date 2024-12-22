@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc174a90f126d95",
+        "id": "6b11414f5c3b2f3f",
         "type": "tabs",
         "children": [
           {
-            "id": "00d5efad1c838c9e",
+            "id": "0db4aa7bdbbd28c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FarmerSoul/新想法/市場訊息.md",
+                "file": "test on ipad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "市場訊息"
+              "title": "test on ipad"
             }
           }
         ]
@@ -128,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "FarmerSoul/新想法/市場訊息.md"
+            "file": "test on ipad.md"
           },
           "icon": "lucide-list",
           "title": "大綱"
@@ -145,7 +145,8 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,20 +159,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00d5efad1c838c9e",
+  "active": "0db4aa7bdbbd28c2",
   "lastOpenFiles": [
-    "FarmerSoul/新想法/市場訊息.md",
-    "FarmerSoul/規劃.md",
-    "FarmerSoul/環境/隨機事件.md",
-    "FarmerSoul/環境",
-    "FarmerSoul/道具/服裝.md",
-    "FarmerSoul/道具/農具.md",
-    "FarmerSoul/新想法",
-    "FarmerSoul/道具",
+    "test on ipad.md",
+    "test on ipad.md",
     "Test on phone.md",
-    "FarmerSoul",
-    "test on ipad.md",
-    "test on ipad.md",
     "/Test on phone.md",
     "FarmerSoul/Test.md",
     "README.md",
