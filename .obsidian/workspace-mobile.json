@@ -11,14 +11,10 @@
             "id": "0db4aa7bdbbd28c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FarmerSoul/Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "新分頁"
             }
           }
         ]
@@ -162,8 +158,8 @@
   "active": "0db4aa7bdbbd28c2",
   "lastOpenFiles": [
     "test on ipad.md",
-    "README.md",
     "FarmerSoul/Test.md",
+    "README.md",
     "FarmerSoul"
   ]
 }
