@@ -11,14 +11,10 @@
             "id": "0db4aa7bdbbd28c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test on ipad.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test on ipad"
+              "title": "新分頁"
             }
           }
         ]
@@ -135,7 +131,7 @@
         }
       },
       {
-        "id": "a313bc13669df1a7",
+        "id": "0fa79ad39c70cf91",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -161,7 +157,6 @@
   },
   "active": "0db4aa7bdbbd28c2",
   "lastOpenFiles": [
-    "test on ipad.md",
     "test on ipad.md",
     "FarmerSoul/Test.md",
     "README.md",
