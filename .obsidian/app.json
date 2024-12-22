@@ -23,5 +23,7 @@
     "editor:configure-toolbar",
     "editor:table-row-delete",
     "editor:table-col-delete"
-  ]
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "FarmerSoul"
 }

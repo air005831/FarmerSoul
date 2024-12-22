@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbbcc509002fe43c",
+            "id": "97acbaee9751c5ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服裝.md",
+                "file": "FarmerSoul/環境/隨機事件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "服裝"
+              "title": "隨機事件"
             }
           },
           {
-            "id": "00abbd4f9aa96731",
+            "id": "2f3944d7cf12e928",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "FarmerSoul/道具/服裝.md",
-                "staged": false,
-                "hash": "70e15edf4ad34030120748bb77be82a22dd6cc9b"
+                "file": "FarmerSoul/規劃.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (服裝)"
+              "icon": "lucide-file",
+              "title": "規劃"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "服裝.md"
+            "file": "FarmerSoul/規劃.md"
           },
           "icon": "lucide-list",
           "title": "大綱"
@@ -182,21 +183,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbbcc509002fe43c",
+  "active": "a313bc13669df1a7",
   "lastOpenFiles": [
+    "FarmerSoul/環境/隨機事件.md",
+    "FarmerSoul/規劃.md",
+    "FarmerSoul/環境",
+    "FarmerSoul/新想法/市場訊息.md",
+    "FarmerSoul/新想法",
+    "FarmerSoul/道具/服裝.md",
     "FarmerSoul/道具/農具.md",
-    "服裝.md",
     "FarmerSoul/道具",
     "test on ipad.md",
     "FarmerSoul",
     "Test on phone.md",
-    "FarmerSoul/新想法/市場訊息.md",
     "/test on ipad.md",
     "FarmerSoul/規劃.md",
-    "FarmerSoul/環境/隨機事件.md",
-    "FarmerSoul/環境",
-    "FarmerSoul/道具/服裝.md",
-    "FarmerSoul/新想法",
     "FarmerSoul",
     "/Test on phone.md",
     "FarmerSoul/Test.md",
