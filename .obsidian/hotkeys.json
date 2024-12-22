@@ -14,14 +14,5 @@
       ],
       "key": "P"
     }
-  ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "S"
-    }
   ]
 }
