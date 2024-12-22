@@ -15,7 +15,7 @@
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": false,
+  "treeStructure": true,
   "refreshSourceControl": false,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
@@ -30,7 +30,7 @@
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "lineAuthor": {
-    "show": false,
+    "show": true,
     "followMovement": "inactive",
     "authorDisplay": "initials",
     "showCommitHash": false,
